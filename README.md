@@ -1,3 +1,2 @@
-# goEuroTestProject
 Java Test Project
  
